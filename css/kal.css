@@ -1,1 +1,64 @@
+table {
+    margin: auto;
+    border-collapse: collapse;
+    border: 1px solid black;
+font-size: 20px;
 
+} 
+header{
+    display: block;
+    height: 45xp;
+    background: linear-gradient(#d8a2a2,#504040)
+    }
+td {
+text-align: center;
+}
+tr {
+background-color: #f2f2f2;
+}
+.my-calendar {
+background-color: #533333;
+}
+td {
+color: rgb(56, 38, 38);
+}
+ul {
+list-style: none;
+
+}
+ul{
+   
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+   }
+   ul.hr li {
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px; /* Отступ слева */
+    padding: 3px; /* Поля вокруг текста */
+   }
+a{
+font-size: 20px;
+}
+img{
+width: 70px;
+align-items: center;
+}
+.ge{
+list-style: none;
+font-size: 18px;
+}
+li{
+    list-style: none;
+font-size: 20px;
+}
+footer{
+background-color: #333;
+color: #fff;
+padding: 20px;
+}
+#footer{
+position: fixed;
+padding: 10px;
+background: #d8a2a2;
+width: 100%;
+}
